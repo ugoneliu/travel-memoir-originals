@@ -1,0 +1,4 @@
+interface:
+  display_name: "原片旅行回忆手帐"
+  short_description: "用当天原照片和简单描述制作手写旅行拼贴，保留人物原貌并独立核验"
+  default_prompt: "请用 $travel-memoir-originals 根据这些原照片和当天描述，制作一张带对应装饰的旅行回忆手帐。"

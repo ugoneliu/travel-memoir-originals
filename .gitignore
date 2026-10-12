@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Keep original photos and generated images outside this public Skill repository.
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.heic
+*.tiff
